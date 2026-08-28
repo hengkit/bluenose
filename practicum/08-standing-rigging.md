@@ -1,100 +1,115 @@
-# Model Shipways MS2130 Bluenose — Installing Standing Rigging
+# Model Shipways MS2130 Bluenose — Standing Rigging
 
 **Kit:** MS2130 Bluenose Canadian Fishing Schooner  
-**Scale:** 1:64  
-**Manual stage:** Stage 8
+**Scale:** 1:64 (3/16" = 1'–0")  
+**Manual stage:** Stage 8  
+**Manual pages:** 30–31  
+**Primary plan sheets:** 5–6
 
-## Goal
+**Official references**
+- [MS2130 instruction manual](https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf)
+- [MS2130 six-sheet plan set](https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets)
+- [MS2130 kit page](https://www.modelexpo-online.com/products/model-shipways-bluenose-canadian-schooner-1-64-scale)
 
-Install the fixed rigging that supports the masts and spars before adding the running rigging.
-
-### Reference card
-
-| Reference | Use |
-|---|---|
-| **Manual** | Stage 8, pp. 30–31 |
-| **Figures** | Stage 8 figures and the standing-rigging portions of Sheets 5–6 |
-| **Plans** | Sheets 5–6 — Rigging Profile and Rigging Details |
-| **Official manual** | [https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf](https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf) |
-| **Plan set** | [https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets](https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets) |
-
-> Exact dimensions, part numbers, and locations come from the plan sheets. The page/figure references below are navigation aids, not substitutes for the drawings.
-
-
-## Bench standard
-
-**Identify → measure from plan → dry-fit → inspect → glue → cure → inspect again.**
-
-If a measurement or fitting location in this practicum differs from the plans, **the plans win**.
+> **Build rule:** The manual controls sequence and techniques. The plans control exact dimensions, profiles, locations, and rigging paths. If this practicum and the plan disagree, follow the plan and make a note in your build log.
 
 ---
 
-## Standing-rigging principle
+## Stage 8 sequence
 
-Install and tension standing rigging gradually. Every adjustment can change mast rake and alignment.
+1. Shrouds
+2. Fore and Aft Stays
+3. Bowsprit Rigging
+4. Footropes
+5. Running Lights
+
+> **Alignment rule:** Standing rigging changes mast alignment. Check the masts after every major tensioning operation.
 
 ## 1. Shrouds
 
-1. Identify each shroud on the rigging plan.
-2. Prepare matched port/starboard lengths.
-3. Attach the upper ends.
-4. Route to the correct deadeyes/attachments.
-5. Establish light temporary tension.
-6. Check mast alignment.
-7. Adjust both sides together.
-8. Complete lanyards/seizings.
-9. Trim line ends.
+### Deadeye reeving
 
-- [ ] Deadeyes aligned.
-- [ ] Shrouds untwisted.
-- [ ] Mast straight.
-- [ ] Tension balanced.
+Follow the manual's deadeye-reeving sequence. The knot/line orientation differs between port and starboard.
+
+1. Identify the shroud.
+2. Identify its deadeye pair.
+3. Prepare matched port/starboard lengths.
+4. Attach upper ends.
+5. Route through the deadeyes in the manual's sequence.
+6. Keep initial tension light.
+7. Check mast rake and centerline.
+8. Adjust both sides together.
+9. Complete lanyards/seizings.
+10. Trim only after final tension is established.
+
+### Ratlines
+
+- Wax the ratline material.
+- Attach at the plan spacing.
+- Keep the ratlines from pulling the shrouds together.
+- Maintain a natural appearance.
 
 ## 2. Fore and Aft Stays
 
-- [ ] Identify each stay.
-- [ ] Prepare attachments.
-- [ ] Dry-route.
-- [ ] Check mast rake.
-- [ ] Install.
-- [ ] Complete specified seizings.
-- [ ] Recheck mast alignment.
+The manual's sequence works from the forward lower stays aft and upward.
+
+1. Identify each stay.
+2. Prepare attachments.
+3. Dry-route.
+4. Check mast rake.
+5. Install.
+6. Tension gradually.
+7. Recheck alignment.
 
 ## 3. Bowsprit Rigging
 
-- [ ] Identify bobstay and other bowsprit support lines.
-- [ ] Prepare fittings.
-- [ ] Route from Sheet 5/6.
-- [ ] Balance tension.
-- [ ] Check bowsprit centerline.
-- [ ] Check jibboom alignment.
+Prepare and install the specified:
+
+- bobstay;
+- backropes;
+- guys;
+- turnbuckles;
+- other bowsprit support lines.
+
+Check the bowsprit centerline after tensioning.
 
 ## 4. Footropes
 
-- [ ] Identify each footrope.
-- [ ] Attach at plan locations.
-- [ ] Shape natural sag.
-- [ ] Secure.
-- [ ] Keep knots/seizings small.
+The manual specifies footropes/stirrups for the bowsprit and footropes for the main boom.
+
+1. Attach at plan locations.
+2. Form natural sag.
+3. Use beeswax to help shape the curve.
+4. Use only a tiny amount of glue if needed to hold shape.
 
 ## 5. Running Lights
 
-- [ ] Locate fixtures from the plan.
-- [ ] Finish.
-- [ ] Install.
-- [ ] Check orientation.
+The manual's arrangement mounts the Britannia running lights on a stripwood board attached to the fore shrouds.
 
-## Stage 8 quality gate
+- [ ] Fixtures prepared.
+- [ ] Board prepared.
+- [ ] Location checked.
+- [ ] Installed without fouling rigging.
 
-View the model from bow, stern, port and starboard:
+## Stage 8 final alignment gate
 
-- [ ] Masts straight.
+View the model from:
+
+- bow;
+- stern;
+- port;
+- starboard.
+
+Check:
+
+- [ ] Foremast straight.
+- [ ] Mainmast straight.
 - [ ] Mast rake correct.
 - [ ] Shrouds balanced.
 - [ ] Stays correctly routed.
 - [ ] Bowsprit centered.
 - [ ] Footropes natural.
 - [ ] Running lights correct.
-- [ ] No standing line blocks a future running line.
+- [ ] No standing line blocks future running rigging.
 
-**Part 8 complete:** - [ ]
+**Stage 8 complete:** - [ ]

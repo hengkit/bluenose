@@ -1,133 +1,141 @@
-# Model Shipways MS2130 Bluenose — Sails and Running Rigging
+# Model Shipways MS2130 Bluenose — Running Rigging, Sails & Final Touches
 
 **Kit:** MS2130 Bluenose Canadian Fishing Schooner  
-**Scale:** 1:64  
-**Manual stage:** Stage 9
+**Scale:** 1:64 (3/16" = 1'–0")  
+**Manual stage:** Stage 9  
+**Manual pages:** 31–33  
+**Primary plan sheets:** 5–6
 
-## Goal
+**Official references**
+- [MS2130 instruction manual](https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf)
+- [MS2130 six-sheet plan set](https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets)
+- [MS2130 kit page](https://www.modelexpo-online.com/products/model-shipways-bluenose-canadian-schooner-1-64-scale)
 
-Install the movable rigging and sails in the manual's Stage 9 sequence, using the rigging profile/details to trace every line.
-
-### Reference card
-
-| Reference | Use |
-|---|---|
-| **Manual** | Stage 9, pp. 32–35 |
-| **Figures** | Stage 9 figures plus the corresponding line paths on Sheets 5–6 |
-| **Plans** | Sheets 5–6 — Rigging Profile and Rigging Details |
-| **Official manual** | [https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf](https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf) |
-| **Plan set** | [https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets](https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets) |
-
-> Exact dimensions, part numbers, and locations come from the plan sheets. The page/figure references below are navigation aids, not substitutes for the drawings.
-
-
-## Bench standard
-
-**Identify → measure from plan → dry-fit → inspect → glue → cure → inspect again.**
-
-If a measurement or fitting location in this practicum differs from the plans, **the plans win**.
+> **Build rule:** The manual controls sequence and techniques. The plans control exact dimensions, profiles, locations, and rigging paths. If this practicum and the plan disagree, follow the plan and make a note in your build log.
 
 ---
 
+## Stage 9 sequence
+
+1. Jumbo Jib, Jib & Balloon Jib
+2. Staysails
+3. Fore and Main Topsails
+4. Fore and Main Sails
+5. Flag Halyards
+6. Final Touches
+
 ## Before starting
 
-- [ ] Stage 8 complete.
-- [ ] Spars aligned.
-- [ ] Blocks installed.
-- [ ] Line sizes verified.
-- [ ] Sails prepared.
-- [ ] Belaying points identified.
+The manual recommends starting at the **bow and working aft**, although the exact order is not critical.
 
-## General running-line workflow
+It also recommends attaching as many lines as possible to sails/spars before those parts are installed. **Do not trim line tails too early**; you may need the extra length for retensioning.
+
+**Sheet 6 is the belaying plan.**
+
+## Universal running-line workflow
 
 For each line:
 
-1. Identify the source.
-2. Identify every block.
-3. Route without twists.
-4. Compare the route with Sheet 5/6.
-5. Confirm the final belaying point.
-6. Tie temporarily.
-7. Adjust tension.
-8. Permanently belay.
-9. Trim the tail.
+1. Identify the line on Sheet 5/6.
+2. Identify its source.
+3. Trace every block.
+4. Identify the final belaying point.
+5. Cut generous working length.
+6. Route temporarily.
+7. Check for fouling.
+8. Adjust tension.
+9. Permanently belay.
 10. Recheck neighboring lines.
+11. Trim the tail only after the system is stable.
 
 ## 1. Jumbo Jib, Jib & Balloon Jib
 
-For each sail:
+For each sail, identify and install the lines shown on the plans.
 
-- [ ] Identify halyard.
-- [ ] Identify sheet.
-- [ ] Identify downhaul/control lines shown.
-- [ ] Route through each block.
-- [ ] Belay.
-- [ ] Check bowsprit clearance.
-- [ ] Shape the sail naturally if set.
+- [ ] Halyard.
+- [ ] Sheets.
+- [ ] Downhaul/control lines where shown.
+- [ ] Blocks correct.
+- [ ] Belaying point correct.
+- [ ] Bowsprit clearance correct.
 
 ## 2. Staysails
 
 - [ ] Identify each staysail.
-- [ ] Install halyards.
-- [ ] Install sheets.
-- [ ] Install downhauls/control lines shown.
+- [ ] Attach halyard.
+- [ ] Attach sheets.
+- [ ] Attach other specified control lines.
 - [ ] Route through blocks.
 - [ ] Belay.
-- [ ] Check stay clearance.
+- [ ] Check for fouling.
 
-## 3. Fore and Main Topsails
+## 3. Fore & Main Topsails
 
-- [ ] Identify attachment points.
-- [ ] Install halyards.
-- [ ] Install sheets/other specified lines.
-- [ ] Route and belay.
-- [ ] Check spar alignment.
-- [ ] Shape sails naturally if set.
-
-## 4. Fore and Main Sails
-
-- [ ] Attach sails to their spars.
+- [ ] Attach sails/spar fittings.
 - [ ] Install halyards.
 - [ ] Install sheets.
-- [ ] Install other lines shown.
-- [ ] Adjust tension.
-- [ ] Avoid pulling the spars out of alignment.
+- [ ] Install specified additional lines.
+- [ ] Belay according to Sheet 6.
+- [ ] Recheck mast/spar alignment.
+
+## 4. Fore & Main Sails
+
+1. Attach sails to their correct spars.
+2. Install halyards.
+3. Install sheets.
+4. Install other specified lines.
+5. Adjust tension gradually.
+6. Ensure the running rigging does not distort the spars.
 
 ## 5. Flag Halyards
 
-- [ ] Identify halyard locations.
-- [ ] Prepare fine line.
-- [ ] Route through correct fittings.
-- [ ] Attach flags.
-- [ ] Belay/secure.
-- [ ] Check scale.
+1. Identify flag halyard locations.
+2. Use appropriate fine line.
+3. Route through the correct fittings.
+4. Attach flags.
+5. Belay/secure neatly.
+6. Check scale and symmetry.
 
-## Final tensioning
+## 6. Final Touches
 
-### Standing rigging first
+### Rigging
 
-- [ ] Shrouds.
-- [ ] Stays.
-- [ ] Bowsprit support.
-- [ ] Mast alignment.
-
-### Running rigging second
-
-- [ ] Halyards.
-- [ ] Sheets.
-- [ ] Downhauls.
-- [ ] Other sail-control lines.
-- [ ] Flag halyards.
-
-## Final inspection
-
-- [ ] No line is crossed incorrectly.
+- [ ] Every line follows the plan.
 - [ ] Belaying points match Sheet 6.
-- [ ] Knots/seizings are consistent.
-- [ ] Line tails are trimmed.
-- [ ] Sails are correctly attached or intentionally omitted.
-- [ ] Masts and spars remain aligned.
-- [ ] Flags and running lights are correct.
+- [ ] No accidental crossings.
+- [ ] Knots/seizings consistent.
+- [ ] Tails trimmed.
 - [ ] No visible adhesive.
 
-**Part 9 complete:** - [ ]
+### Sails
+
+- [ ] Correct sails installed.
+- [ ] Sail edges natural.
+- [ ] Lines have realistic tension.
+- [ ] Sails do not distort spars.
+
+### Finish
+
+- [ ] Name clean.
+- [ ] Flags correct.
+- [ ] Running lights secure.
+- [ ] Paint touch-ups complete.
+- [ ] Hull/deck free of glue residue.
+- [ ] Mount secure.
+
+### Final model inspection
+
+View the completed model from every side and compare it with Sheets 3–6.
+
+**Stage 9 complete:** - [ ]
+
+# Build complete
+
+Record:
+
+- Completion date:
+- Finish used:
+- Rigging configuration:
+- Deviations from plans:
+- Repairs/modifications:
+- Notes for future maintenance:

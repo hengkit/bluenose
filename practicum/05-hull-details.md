@@ -1,31 +1,17 @@
-# Model Shipways MS2130 Bluenose — Part 5 — Adding the Hull Details
+# Model Shipways MS2130 Bluenose — Part 5 — Hull Details
 
 **Kit:** MS2130 Bluenose Canadian Fishing Schooner  
-**Scale:** 1:64  
-**Manual stage:** Stage 5
+**Scale:** 1:64 (3/16" = 1'–0")  
+**Manual stage:** Stage 5  
+**Manual pages:** 20–24  
+**Primary plan sheets:** 3–4
 
-## Goal
+**Official references**
+- [MS2130 instruction manual](https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf)
+- [MS2130 six-sheet plan set](https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets)
+- [MS2130 kit page](https://www.modelexpo-online.com/products/model-shipways-bluenose-canadian-schooner-1-64-scale)
 
-Install the Bluenose-specific deck structures, fittings, equipment, rudder, dories, name and flags in the manual's Stage 5 order.
-
-### Reference card
-
-| Reference | Use |
-|---|---|
-| **Manual** | Stage 5, pp. 20–25 |
-| **Figures** | Stage 5 figures; consult the matching detail on the plans for every location |
-| **Plans** | Sheets 3–4 for hull/deck details |
-| **Official manual** | [https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf](https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf) |
-| **Plan set** | [https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets](https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets) |
-
-> Exact dimensions, part numbers, and locations come from the plan sheets. The page/figure references below are navigation aids, not substitutes for the drawings.
-
-
-## Bench standard
-
-**Identify → measure from plan → dry-fit → inspect → glue → cure → inspect again.**
-
-If a measurement or fitting location in this practicum differs from the plans, **the plans win**.
+> **Build rule:** The manual controls sequence and techniques. The plans control exact dimensions, profiles, locations, and rigging paths. If this practicum and the plan disagree, follow the plan and make a note in your build log.
 
 ---
 
@@ -53,117 +39,137 @@ If a measurement or fitting location in this practicum differs from the plans, *
 20. Schooner's Name
 21. Flags
 
-## 1–2. Fishing/Racing Gear & Fitting Locations
+> **Sequence rule:** Locate fittings on the plans before drilling or gluing. If a fitting is likely to interfere with later rigging, finish the neighboring assembly first.
 
-- [ ] Inventory each fitting.
-- [ ] Locate it on the plan before drilling/gluing.
-- [ ] Dry-fit nearby fittings as a group.
-- [ ] Preserve future mast/rigging access.
+## 1. Fishing & Racing Gear
+
+Inventory and identify all small fittings before installation.
+
+- [ ] Fishing gear identified.
+- [ ] Racing gear identified.
+- [ ] Small parts sorted.
+
+## 2. Locating Deck Fittings & Structures
+
+Before installing details:
+
+1. Mark fitting centers lightly.
+2. Locate openings and structures.
+3. Check port/starboard symmetry.
+4. Check future rigging access.
 
 ## 3. Deck Structures
 
-Build each structure as a small subassembly:
+Build small structures as subassemblies:
 
-1. Clean/square parts.
-2. Finish inaccessible surfaces.
-3. Assemble.
+1. Clean parts.
+2. Square the assembly.
+3. Finish inaccessible surfaces.
 4. Dry-fit on deck.
-5. Check alignment.
+5. Check orientation.
 6. Install.
-
-Apply this to the companionways, skylight/deckhouse, wheel box, and other structures shown in the Stage 5 sequence/plans.
 
 ## 4. Hatches
 
-- [ ] Build coamings square.
-- [ ] Add covers/details.
-- [ ] Check orientation.
-- [ ] Dry-fit against deck planking.
-- [ ] Install.
+1. Build coamings/covers.
+2. Square the assemblies.
+3. Dry-fit.
+4. Check deck-plank relationship.
+5. Install.
 
-## 5–12. Bitts, Buffers, Crutches, Stack and Pumps
+## 5. Bowsprit Bitts & Samson Post
+
+- [ ] Centerline checked.
+- [ ] Dry-fit as a group.
+- [ ] Bowsprit clearance checked.
+- [ ] Installed.
+
+## 6–12. Buffers, Bitts, Crutches, Stack & Pumps
 
 For each named fitting:
 
-1. Identify the physical part.
-2. Confirm the plan location.
+1. Identify part.
+2. Locate on plan.
 3. Dry-fit.
-4. Check height/verticality.
-5. Check interference with future rigging.
-6. Apply minimal adhesive.
-7. Recheck alignment before cure.
-
-This covers the bowsprit bitts/Samson post, boom-sheet buffers, quarter bitts, unidentified object, main boom crutch, fife rail/fore boom crutch, galley stack, and bilge pumps.
+4. Check height/orientation.
+5. Check future rigging clearance.
+6. Glue.
+7. Recheck.
 
 ## 13. Windlass, Hoisting Machinery & Jumbo Jib Boom Crutch
 
-- [ ] Build the windlass assembly.
-- [ ] Check shaft/support alignment.
-- [ ] Build the hoisting machinery.
-- [ ] Dry-fit as a group.
-- [ ] Build the jumbo jib boom crutch.
-- [ ] Check future spar clearance.
-- [ ] Install.
+Build as aligned subassemblies.
+
+- [ ] Windlass aligned.
+- [ ] Hoisting machinery aligned.
+- [ ] Jumbo jib boom crutch correct.
+- [ ] Future line paths remain clear.
 
 ## 14–16. Catheads, Anchors, Chocks & Hawse Pipes
 
-- [ ] Build/finish catheads.
-- [ ] Prepare anchors.
-- [ ] Locate mooring/bow/stern chocks.
-- [ ] Check hawse-pipe angles.
-- [ ] Dry-fit the complete bow arrangement.
-- [ ] Install only after the group is aligned.
+1. Prepare catheads.
+2. Prepare anchors.
+3. Dry-fit bow fittings together.
+4. Confirm hawse-pipe location/angle.
+5. Check symmetry.
+6. Install.
 
 ## 17. Eyebolts & Cleats
 
-1. Mark each location from the plan.
-2. Drill pilot holes where required.
+1. Locate every fitting from the plan.
+2. Drill pilot holes only after confirming position.
 3. Test-fit.
-4. Use minimal adhesive.
+4. Apply minimal adhesive.
 5. Align before cure.
-6. Clean excess immediately.
 
 ## 18. Rudder
 
-- [ ] Prepare the rudder.
-- [ ] Check profile.
-- [ ] Prepare hinges/attachments.
-- [ ] Dry-fit against sternpost.
-- [ ] Align.
-- [ ] Install.
-- [ ] Add specified tiller/detail.
+1. Finish rudder profile.
+2. Dry-fit against sternpost.
+3. Check alignment.
+4. Install hinges/hardware.
+5. Install rudder.
+6. Add tiller/detail as specified.
 
 ## 19. Dories & Dory Kids
 
 ### Dories
-- [ ] Assemble hull.
-- [ ] Add interior details.
-- [ ] Finish before installation.
+
+- [ ] Assemble hulls.
+- [ ] Add interiors.
+- [ ] Finish before mounting.
 
 ### Dory kids
+
 - [ ] Assemble supports.
 - [ ] Check spacing.
 - [ ] Dry-fit dories.
 - [ ] Install.
 
-## 20–21. Schooner's Name & Flags
+## 20. Schooner's Name
 
-- [ ] Test name placement before final application.
-- [ ] Center lettering.
-- [ ] Apply and protect.
-- [ ] Prepare flags.
-- [ ] Shape naturally.
-- [ ] Attach at the correct locations.
+1. Test placement.
+2. Center lettering.
+3. Apply.
+4. Protect during subsequent work.
 
-## Stage 5 quality gate
+## 21. Flags
 
-- [ ] All named Stage 5 operations complete.
-- [ ] Fittings match the plans.
-- [ ] Deck structures square.
-- [ ] Small fittings clean.
+1. Prepare flags.
+2. Shape naturally.
+3. Attach at plan locations.
+4. Protect from later handling.
+
+### Stage 5 gate
+
+- [ ] Deck structures complete.
+- [ ] Hatches complete.
+- [ ] Bitts/crutches/fittings complete.
+- [ ] Windlass/gear complete.
+- [ ] Bow fittings complete.
 - [ ] Rudder complete.
 - [ ] Dories/dory kids complete.
 - [ ] Name and flags complete.
-- [ ] Future mast/rigging work remains accessible.
+- [ ] Rigging access preserved.
 
-**Part 5 complete:** - [ ]
+**Stage 5 complete:** - [ ]

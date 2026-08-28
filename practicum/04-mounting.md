@@ -1,70 +1,71 @@
 # Model Shipways MS2130 Bluenose — Part 4 — Mounting the Hull
 
 **Kit:** MS2130 Bluenose Canadian Fishing Schooner  
-**Scale:** 1:64  
-**Manual stage:** Stage 4
+**Scale:** 1:64 (3/16" = 1'–0")  
+**Manual stage:** Stage 4  
+**Manual pages:** 19  
+**Primary plan sheets:** Mounting arrangement / applicable plan details
 
-## Goal
+**Official references**
+- [MS2130 instruction manual](https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf)
+- [MS2130 six-sheet plan set](https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets)
+- [MS2130 kit page](https://www.modelexpo-online.com/products/model-shipways-bluenose-canadian-schooner-1-64-scale)
 
-Mount the completed hull securely using the manual's Stage 4 display arrangement.
-
-### Reference card
-
-| Reference | Use |
-|---|---|
-| **Manual** | Stage 4, pp. 20 |
-| **Figures** | Stage 4 mounting figures |
-| **Plans** | Use the mounting arrangement shown in the Stage 4 instructions and applicable plan/details |
-| **Official manual** | [https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf](https://modelexpo-online.com/assets/images/documents/MS2130_Bluenose_Canadian_Fishing_Schooner_NEW.pdf) |
-| **Plan set** | [https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets](https://www.modelexpo-online.com/products/model-shipways-bluenose-plans-6-sheets) |
-
-> Exact dimensions, part numbers, and locations come from the plan sheets. The page/figure references below are navigation aids, not substitutes for the drawings.
-
-
-## Bench standard
-
-**Identify → measure from plan → dry-fit → inspect → glue → cure → inspect again.**
-
-If a measurement or fitting location in this practicum differs from the plans, **the plans win**.
+> **Build rule:** The manual controls sequence and techniques. The plans control exact dimensions, profiles, locations, and rigging paths. If this practicum and the plan disagree, follow the plan and make a note in your build log.
 
 ---
 
-## 1. Mounting Board with Two Pedestals
+## Why mount now?
 
-1. Establish the hull centerline.
-2. Locate the pedestal positions from the manual/plan.
-3. Mark the board.
-4. Drill pilot holes.
-5. Install/check the pedestals.
-6. Dry-fit the hull.
-7. Check that the hull is centered and level.
-8. Secure the mounting arrangement.
-9. Recheck after tightening.
+The manual recommends mounting the model as soon as the basic framing/planking work is complete. Future alignment work is easier when the hull has a true, repeatable reference.
 
-### Quality check
+## 1. Prepare the mounting board
 
-- [ ] Hull centered.
-- [ ] Hull level.
-- [ ] Pedestals carry the load evenly.
-- [ ] No pressure on fragile details.
-- [ ] Mount is rigid.
+1. Cut/prepare the baseboard.
+2. Stain or paint it before the hull is permanently mounted.
+3. Establish the centerline.
+4. Locate the pedestal positions from the manual/plan.
+5. Drill pilot holes.
 
-## 2. Launching Ways
+## 2. Install the two pedestals
 
-If using the manual's launching-ways arrangement:
+Bluenose has slight drag to the keel, so the **forward pedestal is taller than the aft pedestal**.
 
-1. Identify the components.
-2. Dry-fit against the hull.
-3. Check spacing and symmetry.
+1. Dry-fit both pedestals.
+2. Check the hull centerline.
+3. Check the keel/baseboard relationship.
+4. Adjust with a brass shim if necessary.
+5. Confirm the waterline will be parallel to the baseboard.
+
+## 3. Mount the hull
+
+1. Dry-fit the hull.
+2. Check centerline.
+3. Check waterline.
+4. Check level from bow/stern.
+5. Secure the pedestals.
+6. Install the hull.
+7. Tighten carefully.
+8. Recheck alignment.
+
+## 4. Launching ways
+
+If using the launching-ways arrangement:
+
+1. Prepare the ways.
+2. Dry-fit to the hull/base.
+3. Check symmetry.
 4. Finish accessible surfaces.
 5. Install.
-6. Verify the hull remains correctly seated.
+6. Confirm the hull remains correctly seated.
 
-## Stage 4 quality gate
+### Stage 4 gate
 
-- [ ] Mounting board complete.
+- [ ] Baseboard finished.
 - [ ] Pedestals secure.
+- [ ] Forward pedestal taller as required.
+- [ ] Waterline parallel to baseboard.
+- [ ] Hull centered.
 - [ ] Launching ways complete if used.
-- [ ] Hull safely supported.
 
-**Part 4 complete:** - [ ]
+**Stage 4 complete:** - [ ]
