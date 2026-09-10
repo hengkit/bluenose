@@ -202,7 +202,15 @@ After installation:
 2. Keep the mast openings at their plan dimensions.
 3. Test-fit the mast openings after cure.
 
-## 10. Waterway
+## 10. Great Beam & Deck Beam
+
+1. Identify the Great Beam and deck beam.
+2. Dry-fit.
+3. Check deck geometry.
+4. Glue.
+5. Recheck after cure.
+
+## 11. Waterway
 
 1. Dry-fit the waterway around the deck edge.
 2. Follow the deck sheer.
@@ -211,7 +219,7 @@ After installation:
 5. Clean squeeze-out.
 6. Preserve the slight bevel required on the innermost plank.
 
-## 11. Knightheads & Hawse Timbers
+## 12. Knightheads & Hawse Timbers
 
 1. Locate both assemblies on the plan.
 2. Dry-fit as a complete bow group.
@@ -219,7 +227,7 @@ After installation:
 4. Preserve the hawse openings.
 5. Install.
 
-## 12. Main Rail
+## 13. Main Rail
 
 1. Pre-bend the rail stock.
 2. Dry-fit the complete run.
@@ -228,14 +236,14 @@ After installation:
 5. Glue progressively.
 6. Recheck the curve while the adhesive is workable.
 
-## 13. Buffalo Rail, Monkey Board & Monkey Rail
+## 14. Buffalo Rail, Monkey Board & Monkey Rail
 
 1. Dry-fit the stern components.
 2. Check symmetry.
 3. Install in manual order.
 4. Compare the completed stern against the plan.
 
-## 14. Remaining Bulwark Stanchions
+## 15. Remaining Bulwark Stanchions
 
 These are the **additional stanchions between bulkheads**, not the bulkhead extensions prepared in Step 6.
 
@@ -247,13 +255,7 @@ These are the **additional stanchions between bulkheads**, not the bulkhead exte
 6. Check spacing.
 7. Recheck rail alignment.
 
-## 15. Great Beam & Deck Beam
 
-1. Identify the Great Beam and deck beam.
-2. Dry-fit.
-3. Check deck geometry.
-4. Glue.
-5. Recheck after cure.
 
 ## Stage 1 final gate
 
