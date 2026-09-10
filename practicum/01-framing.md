@@ -19,19 +19,19 @@
 
 1. Bending Wood
 2. Center Keel Assembly
-3. Installing the Sternpost
-4. Cutting the Rabbet
-5. Tapering the Stem
-6. Installing the Bulkheads
-7. Installing the Stern Blocks & Transom Framing
-8. Installing the Horn Timbers
-9. Covering the Mast Slots
-10. Installing the Great Beam & Deck Beam
-11. Installing the Waterway
-12. Installing the Knightheads & Hawse Timbers
-13. Installing the Main Rail
-14. Installing the Buffalo Rail, Monkey Board & Monkey Rail
-15. Installing the Remaining Bulwark Stanchions
+3. Cutting the Rabbet
+4. Installing the Sternpost
+6. Tapering the Stem
+7. Installing the Bulkheads
+8. Installing the Stern Blocks & Transom Framing
+9. Installing the Horn Timbers
+10. Covering the Mast Slots
+11. Installing the Great Beam & Deck Beam
+12. Installing the Waterway
+13. Installing the Knightheads & Hawse Timbers
+14. Installing the Main Rail
+15. Installing the Buffalo Rail, Monkey Board & Monkey Rail
+16. Installing the Remaining Bulwark Stanchions
 
 
 ## 1. Bending Wood
@@ -78,15 +78,7 @@
 - [ ] No twist.
 - [ ] Joint fully cured.
 
-## 3. Installing the Sternpost
-
-1. Dry-fit the sternpost to the keel.
-2. Compare its profile with the plan.
-3. Check centerline alignment.
-4. Glue.
-5. Recheck after cure.
-
-## 4. Cutting the Rabbet
+## 3. Cutting the Rabbet
 
 1. Transfer the rabbet from the hull plan.
 2. Start with shallow cuts.
@@ -95,6 +87,14 @@
 5. Test the rabbet with scrap plank material.
 6. Check the angle at several stations.
 7. Do not deepen the rabbet to rescue a poorly fitted plank.
+
+## 4. Installing the Sternpost
+
+1. Dry-fit the sternpost to the keel.
+2. Compare its profile with the plan.
+3. Check centerline alignment.
+4. Glue.
+5. Recheck after cure.
 
 ### QC
 
