@@ -26,12 +26,13 @@
 7. Installing the Stern Blocks & Transom Framing
 8. Installing the Horn Timbers
 9. Covering the Mast Slots
-10. Installing the Waterway
-11. Installing the Knightheads & Hawse Timbers
-12. Installing the Main Rail
-13. Installing the Buffalo Rail, Monkey Board & Monkey Rail
-14. Installing the Remaining Bulwark Stanchions
-15. Installing the Great Beam & Deck Beam
+10. Installing the Great Beam & Deck Beam
+11. Installing the Waterway
+12. Installing the Knightheads & Hawse Timbers
+13. Installing the Main Rail
+14. Installing the Buffalo Rail, Monkey Board & Monkey Rail
+15. Installing the Remaining Bulwark Stanchions
+
 
 ## 1. Bending Wood
 
